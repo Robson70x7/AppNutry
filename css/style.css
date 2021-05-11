@@ -14,9 +14,15 @@
 
 .btn-login:hover{
     color:#fff;
-    transform: scale(1.05);
+    transform: scale(1.01);
 }
 
 .bg-login{
     background-color: #dbfcff;
+}
+
+.card:hover:not(.no-hover){
+    transform: scale(1.05);
+    box-shadow: -5px 5px 8px #ccc;
+    cursor: pointer;
 }
