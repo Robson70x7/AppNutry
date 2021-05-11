@@ -4,6 +4,14 @@
     border-color: #ffc107;
 }
 
+.card-header{
+    padding: .50rem 1.25rem !important
+}
+
+.card-body{
+    padding: .50rem 1.25rem !important
+}
+
 .btn-login:hover{
     color:#fff;
     transform: scale(1.05);

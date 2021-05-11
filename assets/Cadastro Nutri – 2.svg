@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Cadastro_Nutri_2);
+      }
+
+      .cls-2 {
+        fill: #ebfaff;
+        stroke: #707070;
+      }
+
+      .cls-3 {
+        font-size: 17px;
+        font-family: NotoSansJP-Medium, Noto Sans JP;
+        font-weight: 500;
+      }
+
+      .cls-4 {
+        fill: #f70;
+      }
+
+      .cls-15, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        font-size: 20px;
+        font-family: NotoSansJP-Bold, Noto Sans JP;
+      }
+
+      .cls-12, .cls-5 {
+        font-weight: 700;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-7 {
+        fill: #689b2f;
+      }
+
+      .cls-14, .cls-8 {
+        fill: none;
+      }
+
+      .cls-8, .cls-9 {
+        stroke: #fff6de;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3.5px;
+        opacity: 0.67;
+      }
+
+      .cls-9 {
+        fill: #f9850c;
+      }
+
+      .cls-10 {
+        fill: #a5f32a;
+      }
+
+      .cls-11 {
+        fill: #cf7c00;
+        opacity: 0.23;
+        mix-blend-mode: multiply;
+        isolation: isolate;
+      }
+
+      .cls-12 {
+        font-size: 42px;
+        font-family: Poppins-Bold, Poppins;
+      }
+
+      .cls-13 {
+        stroke: none;
+      }
+
+      .cls-16 {
+        filter: url(#APPNutri);
+      }
+
+      .cls-17 {
+        filter: url(#Caminho_8);
+      }
+
+      .cls-18 {
+        filter: url(#Caminho_6);
+      }
+
+      .cls-19 {
+        filter: url(#Caminho_16);
+      }
+
+      .cls-20 {
+        filter: url(#Retângulo_3);
+      }
+    </style>
+    <filter id="Retângulo_3" x="67" y="727" width="241" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff8000"/>
+      <stop offset="0.464" stop-color="#ff9100"/>
+      <stop offset="1" stop-color="#f59210"/>
+    </linearGradient>
+    <filter id="Caminho_16" x="254.873" y="212.657" width="63.326" height="76.218" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-2"/>
+      <feFlood flood-color="#324458" flood-opacity="0.31"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Caminho_6" x="270.278" y="192" width="17.572" height="21.086" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-3"/>
+      <feFlood flood-color="#324458" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Caminho_8" x="245.128" y="198.402" width="26.857" height="16.795" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-4"/>
+      <feFlood flood-color="#324458" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="APPNutri" x="54" y="219" width="194.5" height="63.5" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-5"/>
+      <feFlood flood-color="#324458" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Cadastro_Nutri_2">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="Cadastro_Nutri_2" data-name="Cadastro Nutri – 2" class="cls-1">
+    <rect class="cls-15" width="375" height="812"/>
+    <g id="Componente_2_28" data-name="Componente 2 – 28" transform="translate(-5 -4)">
+      <g id="Retângulo_2" data-name="Retângulo 2" class="cls-2">
+        <rect class="cls-13" width="386" height="820"/>
+        <rect class="cls-14" x="0.5" y="0.5" width="385" height="819"/>
+      </g>
+    </g>
+    <text id="O_APPNutri_foi_criado_para_auxiliar_no_controle_e_no_alcance_do_peso_ideal._Possui_fácil_acesso_aos_materiais_fornecidos_aos_usuários_e_o_profissional_nutricionista_que_o_assiste" data-name="O APPNutri foi criado para auxiliar no controle e no alcance do peso ideal. Possui fácil acesso aos materiais fornecidos  aos usuários e o profissional nutricionista que o assiste" class="cls-3" transform="translate(50 347.066)"><tspan x="31.854" y="20">O APPNutri foi criado para </tspan><tspan x="6.796" y="52">auxiliar no controle e no alcance </tspan><tspan x="4.9" y="84">do peso ideal. Possui fácil acesso </tspan><tspan x="20.327" y="116" xml:space="preserve">aos materiais fornecidos  aos </tspan><tspan x="39.189" y="148">usuários e o profissional </tspan><tspan x="32.117" y="180">nutricionista que o assiste</tspan></text>
+    <g id="Grupo_1837" data-name="Grupo 1837" transform="translate(6 111.798)">
+      <g id="Componente_3_48" data-name="Componente 3 – 48" transform="translate(76 627.202)">
+        <g class="cls-20" transform="matrix(1, 0, 0, 1, -82, -739)">
+          <rect id="Retângulo_3-2" data-name="Retângulo 3" class="cls-4" width="211" height="38" rx="16" transform="translate(82 739)"/>
+        </g>
+      </g>
+      <g id="Grupo_1" data-name="Grupo 1" transform="translate(140.971 630.202)">
+        <text id="Ok_entendi" data-name="Ok, entendi" class="cls-5" transform="translate(-16.971 23)"><tspan x="0" y="0">Ok, entendi</tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_1838" data-name="Grupo 1838" transform="translate(-3 22)">
+      <g id="Componente_5_2" data-name="Componente 5 – 2" transform="translate(248.04 170)">
+        <g class="cls-19" transform="matrix(1, 0, 0, 1, -245.04, -192)">
+          <path id="Caminho_16-2" data-name="Caminho 16" class="cls-6" d="M293.137,439.156a1.419,1.419,0,0,1-.251-.783h0l-.038-47.848a1.446,1.446,0,0,1,.23-.813h0c.078-.118,1.615-3.783,7.28-7.8h0a18.115,18.115,0,0,1,10.043-3.191h0a1.447,1.447,0,0,1,1.239.7h0l22.343,36.536-.023-29.438a1.443,1.443,0,0,1,.624-1.19h0a1.444,1.444,0,0,1,1.335-.159h0c.257.032,16.786,6.662,16.756,31.349h0c0,.539-.01,1.083-.025,1.639h0c-.663,25.315-16.8,30.414-17.111,30.414h0a1.451,1.451,0,0,1-1.638-.636h0l-23.411-38.981.022,40a1.456,1.456,0,0,1-.475,1.105h0a1.479,1.479,0,0,1-.981.374h0a1.124,1.124,0,0,1-.169-.012h0c-.211-.022-8.917-1.226-15.749-11.274h0" transform="translate(-37.97 -166.07)"/>
+        </g>
+        <path id="Caminho_1" data-name="Caminho 1" class="cls-7" d="M317.283,365.287s-7.611-.052-11.724,5.69c-3.114,4.348-1.889,9.425-1.294,11.48,2.542-5.765,5.025-8.044,5.025-8.044a67.742,67.742,0,0,0-4.222,7.872c-.058.131.045.458-.01.588,1.691-.646,6.679-2.711,9.9-5.947C318.841,373.029,317.283,365.287,317.283,365.287Z" transform="translate(-278.272 -364.039)"/>
+        <path id="Caminho_4" data-name="Caminho 4" class="cls-8" d="M326.334,390.417c2.968,3.745,9.028,13.722,5.656,30.453" transform="translate(-268.132 -352.87)"/>
+        <path id="Caminho_5" data-name="Caminho 5" class="cls-9" d="M330.612,415.417a18.8,18.8,0,0,1-5.778,7.944" transform="translate(-268.799 -341.759)"/>
+        <g class="cls-18" transform="matrix(1, 0, 0, 1, -245.04, -192)">
+          <path id="Caminho_6-2" data-name="Caminho 6" class="cls-10" d="M317.276,364.982s-7.612-.052-11.724,5.69c-3.114,4.348-1.889,9.425-1.3,11.48,2.542-5.766,5.025-8.044,5.025-8.044s-2.577,4.553-4.232,8.46c1.693-.646,6.681-2.713,9.9-5.947C318.833,372.724,317.276,364.982,317.276,364.982Z" transform="translate(-33.23 -172.98)"/>
+        </g>
+        <path id="Caminho_7" data-name="Caminho 7" class="cls-7" d="M308.372,381.381C304.62,378.955,296,375.175,296,375.175s7.937,2.333,13.407,6.165c.17-.3.2-.394.146-.552-.615-1.9-3.155-7.579-8.381-9.692-5.73-2.314-13.716-1.208-15.042-.907-.126.029-.079.569-.079.569s3.171,9.819,9.009,11.752c4.4,1.455,10.565.156,13.237-.558C308.3,381.86,308.5,381.467,308.372,381.381Z" transform="translate(-286.04 -362.095)"/>
+        <g class="cls-17" transform="matrix(1, 0, 0, 1, -245.04, -192)">
+          <path id="Caminho_8-2" data-name="Caminho 8" class="cls-10" d="M296.052,374.713s7.939,2.334,13.406,6.166c-.377-1.291-2.575-7.957-8.233-10.244-6.276-2.535-15.123-.338-15.123-.338s3.171,9.818,9.009,11.751c4.4,1.456,10.565.157,13.235-.558C304.792,379.106,296.052,374.713,296.052,374.713Z" transform="translate(-40.97 -171.01)"/>
+        </g>
+        <path id="Caminho_9" data-name="Caminho 9" class="cls-11" d="M299.026,414.68c0-13.984,3.665-26.656,9.6-35.929a19.235,19.235,0,0,0-8.271,3.152c-5.665,4.014-7.2,7.679-7.28,7.8a1.446,1.446,0,0,0-.23.813l.038,47.848a1.419,1.419,0,0,0,.251.783c5.61,8.251,12.334,10.536,14.833,11.1C302.166,441.006,299.026,428.483,299.026,414.68Z" transform="translate(-283.015 -358.055)"/>
+      </g>
+    </g>
+    <g class="cls-16" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <text id="APPNutri-2" data-name="APPNutri" class="cls-12" transform="translate(54 263)"><tspan x="0" y="0">APPNutri</tspan></text>
+    </g>
+  </g>
+</svg>
