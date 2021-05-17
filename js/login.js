@@ -18,14 +18,19 @@ document.addEventListener("DOMContentLoaded", () =>{
     form.addEventListener('submit', function(e){
         e.preventDefault();
 
-        var password = form.querySelector('#password');
+        const current = location.pathname;
 
-        if(email.value == "nutriadmin@nutri.com" && password.value == '123'){
-            var current = location.pathname;
+        const selectedType = document.querySelector('input[type="radio"]:checked');
 
-            var to = current.split('/').slice(0, current.split('/').length -1).join('/') + '/pages/clientes.html'
+        const page = selectedType && selectedType.value.toLowerCase() == "cliente" ? '/pages/clientes.html' : '/pages/nutri.html'
 
-            location.href = to;
-        }
+        const to = current.split('/').slice(0, current.split('/').length -1).join('/') + page
+        
+        var email = this.querySelector('input#email').value
+
+        sessionStorage.setItem('user', email)
+
+        location.href = to;
+        
     })
 })
